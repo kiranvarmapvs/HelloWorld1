@@ -6,5 +6,8 @@ class HelloWorld
     { 
         System.out.println("Hello World!, WELCOME TO LEENA IT Services Pvt Ltd");
         System.out.println("This is new line added");
+        int n1 = 225, n2 = 115, sum;  
+        sum = n1 + n2;  
+        System.out.println("The sum of numbers is: "+sum); 
     } 
 } 
